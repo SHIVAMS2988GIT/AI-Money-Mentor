@@ -1,0 +1,5 @@
+fund_name,amount_invested,current_value,category,expense_ratio
+Axis Bluechip Fund,100000,120000,Equity,1.2
+HDFC Midcap Fund,50000,70000,Equity,1.8
+SBI Small Cap Fund,30000,45000,Equity,2.0
+ICICI Debt Fund,40000,50000,Debt,0.8
