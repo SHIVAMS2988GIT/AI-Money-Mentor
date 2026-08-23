@@ -119,4 +119,4 @@ ICICI Debt Fund,40000,50000,Debt,0.8
 
 ## 👨‍💻 Author
 
-Shivam Mishra,Piush Raj Pathak
+Shivam Mishra
